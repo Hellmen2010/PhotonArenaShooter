@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Materials/Spawnpoint.mat.meta
+guid: 10427d68c8e047d49a34497b99cb5d2c
+========
+guid: ee98b9d625b1c1046a126c9815bc516d
+>>>>>>>> Denis/branch:Assets/Prefabs/Maps/Arena2_MaterialsExtraction/Cylinder.mat.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

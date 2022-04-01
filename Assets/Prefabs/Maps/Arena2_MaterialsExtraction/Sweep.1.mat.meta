@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/PostProcessing/Post-processing Profile.asset.meta
+guid: cd3eb8cdd4ea533458b4f26d1d4ddef6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+========
+guid: 671a566db87983546810e2022f57006c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>>> Denis/branch:Assets/Prefabs/Maps/Arena2_MaterialsExtraction/Sweep.1.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

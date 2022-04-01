@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41330da07ab471f408a7e93cfa78120a, type: 3}
+  m_Name: Weapon Audio Scriptobject
+  m_EditorClassIdentifier: 
+  weaponAudioFields:
+  - weaponsoundType: 0
+    audioType: {fileID: 8300000, guid: f97e928833c131841975bd8828a5e8b4, type: 3}
+  - weaponsoundType: 1
+    audioType: {fileID: 8300000, guid: 2ce607cc13093f84d973d47e2f84e636, type: 3}
+  - weaponsoundType: 2
+    audioType: {fileID: 8300000, guid: 1299c4d16a512bd4cb1e7ca8bc357601, type: 3}
+  - weaponsoundType: 3
+    audioType: {fileID: 8300000, guid: 7d96c520e59b1fc44afe415be8dd73e7, type: 3}
+  - weaponsoundType: 4
+    audioType: {fileID: 8300000, guid: ef9a9aca23a23f942a471e6a09dc10b8, type: 3}
+  - weaponsoundType: 5
+    audioType: {fileID: 8300000, guid: 7d5305b496de79642acad9fae9df06d5, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefabs/Models/Knife.prefab.meta
+guid: a04e8b929f535224da8769708f21f359
+PrefabImporter:
+  externalObjects: {}
+========
+guid: 2ca030e41bceb6a4792f77ef5e79eb96
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>>> Denis/branch:Assets/Prefabs/Maps/Arena2_MaterialsExtraction/Sweep.2.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
